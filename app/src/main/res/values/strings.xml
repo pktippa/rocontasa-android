@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gyro Service</string>
+    <string name="service_name">gyroservice</string>
+
+</resources>
