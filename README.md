@@ -12,11 +12,11 @@ The crowd-sourced accelerometer data, coupled with some data analytics to weed o
 
 Technology Stack:
 -----------------
-* #### Android application ####
-  Install and forget – a background service reports the potholes/road condition  and alarms safety.
-* #### NodeJS ####
-  1. HTML Dashboard of Road conditions
-  2. Web services to consume crows sourced data
-  3. Data algorithms on BigData. 
-*	##### MongoDB ####
-  For data storage and data analytics.
+#### Android application ####
+  * Install and forget – a background service reports the potholes/road condition  and alarms safety.
+#### NodeJS ####
+  * HTML Dashboard of Road conditions
+  * Web services to consume crows sourced data
+  * Data algorithms on BigData. 
+##### MongoDB ####
+  * For data storage and data analytics.
