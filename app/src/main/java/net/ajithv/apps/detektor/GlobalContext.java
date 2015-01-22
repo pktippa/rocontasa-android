@@ -2,9 +2,7 @@ package net.ajithv.apps.detektor;
 
 import org.json.JSONArray;
 import android.content.Context;
-/**
- * Created by ajith_v on 12/20/2014.
- */
+
 public class GlobalContext {
     private static GlobalContext instance;
 
