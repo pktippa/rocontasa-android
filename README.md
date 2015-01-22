@@ -22,3 +22,27 @@ Technology Stack:
 
 ##### MongoDB ####
   * For data storage and data analytics.
+
+
+How to contribute:
+-----------------
+
+#### Setup Dev Env
+* Join [google group](https://groups.google.com/forum/#!forum/rocontasa) for general discussion
+* Fork on [GitHub](https://github.com/rocontasa)
+* ...
+
+
+#### Making Changes
+* Raise an issue on GitHub, describe the feature/enhancement/bug
+* Discuss with others in google group or issue comments, make sure the proposed changes fit in with what others are doing and have planned for the project
+* Make changes in your fork
+* Write unit test if no existing cover your change
+* Push to GitHub under your fork
+
+
+#### Contribute The Work
+* Raise a pull request on GitHub, include both **code** and **test**, link with **related issue**
+* Committer will review in terms of correctness, performance, design, coding style, test coverage
+* Discuss and revise if necessary
+* Finally committer merge code into main branch
