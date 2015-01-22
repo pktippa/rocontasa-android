@@ -1,4 +1,4 @@
-Rocontasa - ROad CONdition Tracking And Safety Alarming
+Rocontasa - ROad CONdition Tracking And Safety Alarming [![Build Status](https://travis-ci.org/rocontasa/android.png)](https://travis-ci.org/rocontasa/android)
 =======================================================
 
 Overview
