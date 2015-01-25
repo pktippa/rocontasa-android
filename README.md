@@ -1,6 +1,15 @@
 Rocontasa - ROad CONdition Tracking And Safety Alarming [![Build Status](https://travis-ci.org/rocontasa/android.png)](https://travis-ci.org/rocontasa/android)
 =======================================================
 
+[P K](https://github.com/pktippa/pk)
+====================================
+
+# Problem - Potholes and speed bumps in road.
+
+# Solution - Remove them.
+
+# Dream - Steering less & Driver less vehicles.
+
 Overview
 --------
 
