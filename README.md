@@ -4,7 +4,7 @@ Rocontasa - ROad CONdition Tracking And Safety Alarming [![Build Status](https:/
 [P K](https://github.com/pkhub/pk)
 ====================================
 
-# Problem Identifer(s)/Owner(s) - [Ajith Vasudevan](https://github.com/ajithvasudevan)  [P K Tippa](https://github.com/pktippa).
+# Problem Identifer(s)/Owner(s) - [Ajith Vasudevan](https://github.com/ajithvasudevan), [P K Tippa](https://github.com/pktippa).
 
 # Problem - Potholes, speed bumps on road and no safety alarming about them
 
