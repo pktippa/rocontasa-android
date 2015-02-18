@@ -1,4 +1,4 @@
-package net.ajithv.apps.detektor;
+package org.pkhub.rocontasa.mobile;
 
 import android.content.Context;
 import android.content.Intent;

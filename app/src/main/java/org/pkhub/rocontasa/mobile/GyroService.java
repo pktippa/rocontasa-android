@@ -1,4 +1,4 @@
-package net.ajithv.apps.detektor;
+package org.pkhub.rocontasa.mobile;
 
 import android.app.Notification;
 import android.app.PendingIntent;
@@ -47,7 +47,7 @@ public class GyroService extends Service {
 		wl.acquire();
 
 		Intent notificationIntent = new Intent(this, MainActivity.class);
-		notificationIntent.setAction("net.ajithv.apps.detektor.main");
+		notificationIntent.setAction("org.pkhub.rocontasa.mobile.main");
 		notificationIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
 		PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, notificationIntent, 0);
 		Bitmap icon = BitmapFactory.decodeResource(getResources(), R.drawable.ic_launcher);
