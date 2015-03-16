@@ -1,25 +1,6 @@
 Rocontasa - ROad CONdition Tracking And Safety Alarming [![Build Status](https://travis-ci.org/rocontasa/android.png)](https://travis-ci.org/rocontasa/android)
 =======================================================
 
-[P K](https://github.com/pkhub/pk)
-====================================
-
-# Problem Identifer(s)/Owner(s) - [Ajith Vasudevan](https://github.com/ajithvasudevan), [P K Tippa](https://github.com/pktippa).
-
-# Problem - Potholes, speed bumps on road and no safety alarming about them
-
-# Solution - Let's remove them and give safety to drivers and passengers.
-
-# Dream(s) - Steering less & Driver less vehicles.
-
-# Investment Sponsored - Last Quarter - $ 0.
-
-# Sponsorship Distribution - X - Full X/2 based on contribution - 1 Year.
-
-# Revenue Generated - Last Quarter - $ 0.
-
-# Revenew Distribution - X - Full X/2 based on contribution - 1 Year.
-
 Overview
 --------
 
@@ -65,3 +46,23 @@ How to contribute:
 * Committer will review in terms of correctness, performance, design, coding style, test coverage
 * Discuss and revise if necessary
 * Finally committer merge code into main branch
+
+
+[P K](https://github.com/pkhub/pk)
+====================================
+
+# Problem Identifer(s)/Owner(s) - [Ajith Vasudevan](https://github.com/ajithvasudevan), [P K Tippa](https://github.com/pktippa).
+
+# Problem - Potholes, speed bumps on road and no safety alarming about them
+
+# Solution - Let's remove them and give safety to drivers and passengers.
+
+# Dream(s) - Steering less & Driver less vehicles.
+
+# Investment Sponsored - Last Quarter - $ 0.
+
+# Sponsorship Distribution - X - Full X/2 based on contribution - 1 Year.
+
+# Revenue Generated - Last Quarter - $ 0.
+
+# Revenew Distribution - X - Full X/2 based on contribution - 1 Year.
