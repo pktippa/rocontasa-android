@@ -3,5 +3,8 @@
 
     <string name="app_name">Rocontasa Mobile</string>
     <string name="service_name">Rocontasa Service</string>
-
+    <string name="server_status">Server Status: </string>
+    <string name="sbmtPthlsSpdBmpsStr">Submit potholes and speed bumps </string>
+    <string name="sftyAlrmngStr">Safety alarming</string>
+    <string name="gtLtstVrsnStr">Current version is obselete. Please get latest version from playstore.</string>
 </resources>
